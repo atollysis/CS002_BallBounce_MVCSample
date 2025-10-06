@@ -27,7 +27,7 @@ class BallView extends JPanel implements Observer {
 	 * FIELDS
 	 */
 	private static final long serialVersionUID = 1L;
-	private final int size;
+	private int size;
 	private Point position;
 
 	/*
