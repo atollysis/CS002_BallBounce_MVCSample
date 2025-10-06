@@ -55,7 +55,9 @@ class BallController extends JFrame {
 		this.model.addObserver(view);
 		
 		// Anonymous class for Timer
-		this.timer = new Timer(5, new ActionListener() {
+		this.timer = new Timer(
+				5, // usually 16ms = 60fps; 5ms = 200FPS (or as close as it can)
+				new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				model.move(view.getWidth(), view.getHeight());
 			}
