@@ -21,7 +21,7 @@
  * 			initialization coexisted during Java 5-8, but more modern
  * 			conventions preferred the latter.
  */
-package ball2_propertychange;
+package com.github.atollysis.ballbounceprogram.ball2_propertychange;
 
 import java.awt.Point;
 import java.beans.PropertyChangeListener;

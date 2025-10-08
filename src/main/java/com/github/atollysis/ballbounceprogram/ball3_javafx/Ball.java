@@ -17,7 +17,7 @@
  * Additionally:
  * 		- Strictly no magic numbers.
  */
-package ball3_javafx;
+package com.github.atollysis.ballbounceprogram.ball3_javafx;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;

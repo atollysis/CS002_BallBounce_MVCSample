@@ -21,7 +21,7 @@
  * convention. Additionally, more modern applications use FXML
  * for setting up the GUI.
  */
-package ball3_javafx;
+package com.github.atollysis.ballbounceprogram.ball3_javafx;
 
 import javafx.animation.Animation.Status;
 import javafx.animation.Animation;

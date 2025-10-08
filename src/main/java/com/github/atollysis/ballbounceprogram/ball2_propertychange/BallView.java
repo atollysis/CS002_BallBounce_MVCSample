@@ -17,7 +17,7 @@
  * 		- Overridden methods marked with \@Override.
  * 		- Calls paintComponent() instead of paint().
  */
-package ball2_propertychange;
+package com.github.atollysis.ballbounceprogram.ball2_propertychange;
 
 import java.awt.Color;
 import java.awt.Graphics;

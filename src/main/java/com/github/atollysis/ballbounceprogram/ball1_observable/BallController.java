@@ -15,7 +15,7 @@
  * 			referencing outer class fields
  * 		- Magic numbers
  */
-package ball1_observable;
+package com.github.atollysis.ballbounceprogram.ball1_observable;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

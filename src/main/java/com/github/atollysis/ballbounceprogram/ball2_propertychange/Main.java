@@ -13,7 +13,7 @@
  * 			in an anonymous class in older conventions. A lambda
  * 			takes its place in modern conventions (shown here).
  */
-package ball2_propertychange;
+package com.github.atollysis.ballbounceprogram.ball2_propertychange;
 
 import javax.swing.SwingUtilities;
 

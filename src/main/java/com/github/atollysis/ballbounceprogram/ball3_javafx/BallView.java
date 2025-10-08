@@ -14,7 +14,7 @@
  * Additionally:
  * 		- Strictly no magic numbers.
  */
-package ball3_javafx;
+package com.github.atollysis.ballbounceprogram.ball3_javafx;
 
 import javafx.scene.layout.Background;
 import javafx.scene.layout.Pane;

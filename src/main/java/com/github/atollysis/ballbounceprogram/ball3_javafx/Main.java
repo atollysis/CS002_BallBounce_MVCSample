@@ -14,7 +14,7 @@
  * In Eclipse, a new Maven run configuration is needed with javafx:run
  * as the goal.
  */
-package ball3_javafx;
+package com.github.atollysis.ballbounceprogram.ball3_javafx;
 
 import javafx.application.Application;
 import javafx.geometry.Dimension2D;

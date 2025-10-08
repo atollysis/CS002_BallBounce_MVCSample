@@ -43,7 +43,7 @@
         <version>0.0.8</version>
         
         <configuration>
-          <mainClass>ball3_javafx.Main</mainClass>
+          <mainClass>com.github.atollysis.ballbounceprogram.ball3_javafx.Main</mainClass>
         </configuration>
       </plugin>
       

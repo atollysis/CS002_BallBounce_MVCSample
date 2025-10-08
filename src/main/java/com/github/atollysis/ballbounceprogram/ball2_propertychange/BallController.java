@@ -18,7 +18,7 @@
  * 			conventions preferred the latter.
  * 		- Lambdas for action listeners.
  */
-package ball2_propertychange;
+package com.github.atollysis.ballbounceprogram.ball2_propertychange;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

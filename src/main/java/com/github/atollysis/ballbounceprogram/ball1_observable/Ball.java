@@ -12,7 +12,7 @@
  * 		- Constructor initialization of fields
  * 		- Magic numbers
  */
-package ball1_observable;
+package com.github.atollysis.ballbounceprogram.ball1_observable;
 
 import java.awt.Point;
 import java.util.Observable;

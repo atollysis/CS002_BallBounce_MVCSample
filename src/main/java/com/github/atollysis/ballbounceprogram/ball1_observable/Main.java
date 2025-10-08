@@ -6,7 +6,7 @@
  * formatted using older conventions, like:
  * 		- Simpler main method
  */
-package ball1_observable;
+package com.github.atollysis.ballbounceprogram.ball1_observable;
 
 class Main {
 
